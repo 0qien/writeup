@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/hFPd3zG/MCTF.png)
+![banner](https://i.ibb.co/q0GPPC5/1500x500.jpg)
 
 # CTF Writeups
 
