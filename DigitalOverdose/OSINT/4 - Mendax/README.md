@@ -52,7 +52,8 @@ En regardant ce profil de plus près :
 
 - La personne se décrit comme "Gamer. Geek. Activist. Blades Lover."  
 - Sa bannière semble indiquer qu'elle fait partie du milieu du hacking  
-- Ses RTs corroborent sa version (majoritairement liés à la cybersécurité et au monde du hacking en général)
+- Ses RTs corroborent sa bio ainsi que sa bannière (majoritairement liés à la cybersécurité et au monde du hacking en général)
+- La mention "Blades Lover." dans la bio permet de faire un lien direct avec la photo de profil de son keybase  
 
 On a donc trouvé la bonne personne, il n'y a plus qu'à convertir son @ en ID.
 
