@@ -12,3 +12,4 @@ Root-Me : 0qien
 |------------------------------------------------------------------|:--------------------:|
 | [MidnightFlag - INFEKTIONCTF](MidnightFlagCTF)                   |          11          |
 | [DigitalOverdose - RACTF](DigitalOverdose)                       |          08          |
+| [Misc](Misc)                                                     |          02          |
