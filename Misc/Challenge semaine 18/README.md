@@ -28,7 +28,6 @@ Sur la photo jointe au challenge, on remarque rapidement des éléments intéres
 - En rouge, on remarque un drapeau, visiblement Islandais.
 - En rose, on remarque la forme particulière des bâtiments. Cette forme est endémique aux pays du nord.
 - En jaune, on remarque un petit port.
-- En violet, les bâtiments très colorés, possiblement endémiques à des pays chauds.
 - En bleu, on remarque des terres qui semblent assez proches. Le port donnant donc sur d'autres parties du pays.
 
 On peut désormais chercher une webcam en Islande, proche d'un petit port.
