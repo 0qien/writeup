@@ -118,7 +118,7 @@ En parcourant ses captures, on tombe donc rapidement sur la porte d'entrée, et 
 
 Le digicode a 13 touches ! 
 
-Il ne reste plus qu'à répondre à la deuxième question, "combien coute l'entrée de ce batiment pour un adulte s'il prend son billet sur place ?". Encore une fois, ça tombe bien ! L'utilisateur qui a prit en photo le digicode a également, et sur la même photo, capturer une affiche qui parle de l'achat des billets.
+Il ne reste plus qu'à répondre à la deuxième question, "combien coute l'entrée de ce batiment pour un adulte s'il prend son billet sur place ?". Encore une fois, ça tombe bien ! L'utilisateur qui a prit en photo le digicode a également, et sur la même photo, capturé une affiche qui parle de l'achat des billets.
 
 ![https://www.google.fr/maps/@65.0772179,-22.7288487,3a,75y,5.22h,78.56t/data=!3m6!1e1!3m4!1sAF1QipPkblszhvLn4N8TjIJOg_2yhtMEVyzNiTm3_5M8!2e10!7i6912!8i3456](./images/billet.png)
 
