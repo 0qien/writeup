@@ -55,11 +55,11 @@ Sur la bonne de worldcam.eu, on peut trouver la source de la webcam :
 
 ![](./images/source.png)
 
-La source nous redirige elle-même vers une autre page :
+En cliquant sur le lien, on est redirigé sur cette page.
 
 ![](./images/source2.png)
 
-Qui semble être la source originale : 
+En cliquant sur le bouton en bas, on est redirigé sur une autre page. Cette dernière semble être la source originale : 
 
 ![http://cam.stykk.is/view/viewer_index.shtml?id=34743](./images/webcam2.png)
 
