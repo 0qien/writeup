@@ -1,16 +1,11 @@
-![banner](https://pbs.twimg.com/profile_banners/1334486524168200195/1609790543/1500x500)
+![banner](https://i.ibb.co/q0GPPC5/1500x500.jpg)
 
-# Digital Overdose Conference 2022 CTF
+# Misceanellous
 
-The Digital Overdose Community brings it's third community CTF to existence, the weekend after hosting its second ever cybersecurity conference!
+Some challenges that I do when I come across them but that do not depend on any CTF :)
 
-It is a 2-day jeopardy-style CTF spanning multiple categories such as Web, Pwn, OSINT, Crypto, Stego, etc.
+For the weekly challenges :
+https://www.linkedin.com/in/jmetayer/
 
-Start :  April 30th (00:00:00 GMT+2)
-End : May 1st (23:59:59 GMT+2)
-
-Website : https://digitaloverdose.tech/<br>
-Twitter : https://twitter.com/Digit4lOverdose<br>
-Discord : https://discord.gg/yTPvyub<br>
-Ctftime : https://ctftime.org/event/1623/<br>
-Github  : https://github.com/digital-overdose
+For the AEGE's challenges : 
+https://www.aege.fr/groupe/club-osint-veille-18
