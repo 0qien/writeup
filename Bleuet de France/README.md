@@ -1,16 +1,13 @@
-![banner](https://pbs.twimg.com/profile_banners/1334486524168200195/1609790543/1500x500)
+![banner](https://www.aege.fr/ressources/temp/80_850x478_125_3128926508_2022021601-osint-bleuet.png)
 
-# Digital Overdose Conference 2022 CTF
+# Bleuet de France CTF(OSINT)
 
-The Digital Overdose Community brings it's third community CTF to existence, the weekend after hosting its second ever cybersecurity conference!
+Le Capture The Flag BLEUET DE FRANCE CTF by AEGE est le premier challenge historique et mémoriel. Il s'agit pour les challengers de résoudre des énigmes contenant des informations sur des personnes ou des faits durant la seconde guerre mondiale, appelées "flags". L'ensemble des réponses sont disponibles en sources ouvertes (OSINT).
 
-It is a 2-day jeopardy-style CTF spanning multiple categories such as Web, Pwn, OSINT, Crypto, Stego, etc.
+Début :  Vendredi 06 Mai 2022 - 20h
+Fin : Dimanche 08 Mai 2022 - 19h
 
-Start :  April 30th (00:00:00 GMT+2)
-End : May 1st (23:59:59 GMT+2)
-
-Website : https://digitaloverdose.tech/<br>
-Twitter : https://twitter.com/Digit4lOverdose<br>
-Discord : https://discord.gg/yTPvyub<br>
-Ctftime : https://ctftime.org/event/1623/<br>
-Github  : https://github.com/digital-overdose
+Site : https://www.aege.fr/
+Twitter : https://twitter.com/aege
+Discord : https://discord.gg/CGKMM58e
+Dons pour l'Oeuvre Nationale du Bleuet de France : https://www.onac-vg.fr/dons/
