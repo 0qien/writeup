@@ -24,8 +24,8 @@ You will find here the challenges that I created (and that we put online) for th
 | [Escape route](OSINT/escape_route)                               | OSINT         | x          |Hard        | 
 | [Private network isn't safe](Reseau/private_network_isnt_safe)   | Network       | x          |Easy        |
 | [Unencrypted communication](Reseau/unencrypted_communication)    | Network       | x          |Easy        |
-| [It remembers everything 1/3](/Forensic/it_remembers_everything_1-3)| Forensic   | x          |  Easy      |
-| [It remembers everything 2/3](/Forensic/it_remembers_everything_2-3)| Forensic   | x          |  Easy      |
-| [It remembers everything 3/3](/Forensic/it_remembers_everything_3-3)| Forensic   | x          |  Easy      |
+| [It remembers everything 1/3](Forensic/it_remembers_everything_1-3)| Forensic   | x          |  Easy      |
+| [It remembers everything 2/3](Forensic/it_remembers_everything_2-3)| Forensic   | x          |  Easy      |
+| [It remembers everything 3/3](Forensic/it_remembers_everything_3-3)| Forensic   | x          |  Easy      |
 | [sPoNs0r PaGe](Steganographie/sPoNs0r_PaGe)                      | Steganography | x          |Easy        |
 | [Nothing is classified](Steganographie/nothing_is_classified)    | Steganography | x          |Easy        |
