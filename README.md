@@ -12,3 +12,4 @@ I will publish here the WU of the challenges that I will validate at the differe
 | [MidnightFlag - INFEKTIONCTF (they're mine!)](MidnightFlagCTF)   |          12          |
 | [DigitalOverdose - RACTF](DigitalOverdose)                       |          08          |
 | [Misc](Misc)                                                     |          02          |
+| [Stranger Case](StrangerCase)                                    |          01          |
